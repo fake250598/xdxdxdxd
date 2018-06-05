@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: black;
+}
+
+#contenedor {
+	margin-top: 55px;
+	padding: auto;
+	width: 100%;
+}
+video{
+	width: 100%;
+}
+img{
+	width: 100%;
+}
+
+#header {
+	margin-top: 75px;
+	display: block;
+	margin-bottom: 30px;
+}
+
+#footer {
+	text-align: center;
+	margin: 10px auto;
+}
